@@ -1,13 +1,13 @@
-# SMS Bomber
+# Toxi SMS
 **A simple SMS bomber**
 ## Installation
 1
 ```bash
-git clone https://github.com/fakeviolet/SMSbomber.git
+git clone https://github.com/fakeviolet/ToxiSMS.git
 ```
 2
 ```bash
-cd SMSbomber/
+cd ToxiSMS/
 ```
 3
 ```bash
@@ -15,5 +15,5 @@ pip install -r requirements.txt
 ```
 4
 ```bash
-python3 SMSbomber.py
+python3 ToxiSMS.py
 ```

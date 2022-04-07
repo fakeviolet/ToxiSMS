@@ -1,6 +1,7 @@
 # Toxi SMS
 **A simple SMS bomber**
-Enter the target phone number in input without first zero.
+
+Enter the target phone number (Iran) in input without first zero.
 ## Installation
 1
 ```bash
